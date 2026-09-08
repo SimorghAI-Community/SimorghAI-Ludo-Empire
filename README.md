@@ -12,6 +12,7 @@
 
 ### ⬇️ [ دانلودِ آخرین نسخه (APK) ](https://github.com/SimorghAI-Community/SimorghAI-Ludo-Empire/releases/latest)
 
+### 🔗 [ صفحه بازی (آخرین تغییرات) ](https://simorghai.ir/aigames/emperor-ludo-intro.html)
 </div>
 
 ---
